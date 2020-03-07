@@ -8,7 +8,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            BasicTask t = new Digit_fifth_powers();
+            BasicTask t = new Number_spiral_diagonals();
             t.Result();
         }
     }
